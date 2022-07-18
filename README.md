@@ -4,7 +4,19 @@
 
 https://github.com/coding-to-music/forcast-metrics-go-influx-grafana
 
-From / By
+From / By https://github.com/tedpearson
+
+https://github.com/tedpearson/
+
+https://grafana.lux4rd0.com/playlists/play/1?kiosk
+
+https://grafana.lux4rd0.com/d/lux4rd0labs_weatherflow_11/current-conditions?orgId=1&refresh=1m
+
+https://labs.lux4rd0.com/weatherflow-collector/
+
+https://github.com/lux4rd0/weatherflow-dashboards-aio
+
+https://github.com/lux4rd0/weatherflow-collector
 
 ## Environment variables:
 
