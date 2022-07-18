@@ -1,0 +1,21 @@
+{
+  "name": "forcast-metrics-go-influx-grafana",
+  "version": "1.0.0",
+  "description": "ForecastMetrics is a tool to store forecast data from multiple sources in VictoriaMetrics or InfluxDB.",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "git add . && git commit -m Build && git push",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tedpearson/ForecastMetrics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tedpearson/ForecastMetrics/issues"
+  },
+  "homepage": "https://github.com/tedpearson/ForecastMetrics#readme"
+}
